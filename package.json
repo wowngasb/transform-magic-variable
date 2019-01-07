@@ -1,0 +1,24 @@
+{
+  "name": "babel-plugin-transform-magic-variable",
+  "version": "1.0.0",
+  "description": "A babel transform plugin for replace magic variables like it in PHP.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wowngasb/transform-magic-variable.git"
+  },
+  "keywords": [
+    "transform",
+    "magic",
+    "variable"
+  ],
+  "author": "wowngasb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wowngasb/transform-magic-variable/issues"
+  },
+  "homepage": "https://github.com/wowngasb/transform-magic-variable#readme"
+}
